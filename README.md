@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xianqi-ZHANG&layout=compact)
 
-![snake](https://raw.githubusercontent.com/Xianqi-Zhang/Xianqi-Zhang/output/# github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Xianqi-Zhang/Xianqi-Zhang/output/github-contribution-grid-snake.svg)
