@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure class="half">
+<!-- <figure class="half">
   <img src=https://github-readme-stats.vercel.app/api?username=Xianqi-Zhang&show_icons=true&theme=default>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Xianqi-ZHANG&layout=compact>
-</figure>
+</figure> -->
 
 <!--
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Xianqi-Zhang&show_icons=true&theme=default)
